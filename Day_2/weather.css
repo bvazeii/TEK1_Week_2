@@ -1,0 +1,62 @@
+.nightSleetcard{
+    background-image: url("https://immersioninenglish.files.wordpress.com/2016/01/sleet-falling.png") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
+
+.partlycloudy{
+    background-image: url("http://www.westessexnow.com/uploads/3/0/7/7/30776419/2150213_orig.png") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
+.sunny{
+    background-image: url("http://il6.picdn.net/shutterstock/videos/11444963/thumb/1.jpg") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
+.rain{
+    background-image: url("http://www.seattleweatherblog.com/wp-content/uploads/2012/06/rainyseattle.jpg") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
+.snow{
+    background-image: url("http://4.bp.blogspot.com/-AusLqSZX48I/UCKWY-g2tDI/AAAAAAAAUeU/4NIxXVTcBgQ/s1600/rainy+night+sky+%252812%2529.jpg") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
+
+.lightning{
+    background-image: url("http://main-designyoutrust.netdna-ssl.com/wp-content/uploads/2011/09/potd13.jpg?iv=122") ;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-repeat:no-repeat;
+    height:450px; 
+    background-size: 100% 100%;
+    opacity: 0.8; filter: alpha(opacity=50);
+    margin:20px;
+}
