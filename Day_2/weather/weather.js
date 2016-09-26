@@ -19,7 +19,7 @@
     var summary = data.daily.data[0].summary;
     var rain = data.daily.data[0].precipProbability;
     
-    $("#location").append('<h1>' + place + '</h1>');
+    $("#location").append('<h2>' + place + '</h2>');
      $("#currentTemperature").append('<h1>' + temp + "&deg; F"+'</h1>');
      $("#temperatureMax").append("<h5>" + "Max Temperature: " + maxTemp + "&deg; F"+"</h5>"); 
       $("#minTemperature").append("<h5>" + "Min Temperature: " + minTemp + "&deg; F"+"</h5>"); 
@@ -28,5 +28,24 @@
   }) 
   })
 });
+
+
+ // $("button#add").click(function(ev /*event*/) {
+ //       var newCar = $("#newcar").val();
+
+        // Prevent adding a blank item
+  //      if(newCar == "") return;
+        
+  //      $("#list").append("<li>"
+   //     + newCar  + ' <button class="remove">(x)</button>' + "</li>");
+        
+ //       $("#newcar").val("");
+ //   });
+
+ //   $("#list").click("button.remove", function(ev) {
+ //       $(ev.target).parent().fadeOut();
+  //  });
+
+// });
 
 
